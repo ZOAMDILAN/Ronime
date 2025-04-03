@@ -1,7 +1,7 @@
 # Ronime
 
 <p align="center">
-  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/Logo.png" alt="Logo" width="200" height="200">
+  <img src="https://github.com/Space-00/Ronime/blob/main/Screenshots/i.png" alt="Logo" width="200" height="200">
 </p>
 
 Ronime is a windows app that you can download anime from it for absolutely free without paying a pennie
