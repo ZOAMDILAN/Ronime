@@ -8,7 +8,7 @@ Ronime is a windows app that you can download anime from it for absolutely free 
 
 Ronime is pretty nice so give it a try and see it for yourself
 
-Get Ronime from here: [Download](https://github.com/Space-00/Ronime)
+Get Ronime from here: [Download](https://github.com/Space-00/Ronime/releases)
 
 Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thank you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
 
