@@ -10,6 +10,8 @@ Ronime is pretty nice so give it a try and see it for yourself
 
 Get Ronime from here: [Download](https://github.com/Space-00/Ronime/releases)
 
+**Don't forget to give a ⭐**
+
 Guys I need your feedbacks and ideas or any suggestion, so tell me about them [here](https://github.com/Space-00/Ronime/issues) , thank you in advance cause I'm a solo developer for this app and I need you guys' feddbacks to make it better
 
 # ❗ Disclaimer ❗ :
